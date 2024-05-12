@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="095e65664782c21037bacbb9316d4313" sys_domain="global" table="x_58872_needit_test" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_test</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-11 17:00:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>095e65664782c21037bacbb9316d4313</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_test</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_095e65664782c21037bacbb9316d4313</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-11 17:00:28</sys_updated_on>
+            <sys_user/>
+            <view/>
+            <view_name/>
+            <x_58872_needit_test_a/>
+            <x_58872_needit_test_b/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

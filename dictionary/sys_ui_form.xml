@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="631ca5128d30021087de63ac7f1f00e3" extends="sys_metadata" label="Form" max_length="40" name="sys_ui_form" read_roles="form_admin" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="test a" max_length="40" name="x_58872_needit_test_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="test b" max_length="40" name="x_58872_needit_test_b" type="string"/>
+    </element>
+</database>

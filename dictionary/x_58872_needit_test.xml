@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="5a8dede24782c21037bacbb9316d4378" label="test" max_length="40" name="x_58872_needit_test" type="collection">
+        <element choice="1" label="a" max_length="40" name="a" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="option a" sequence="0" value="option a"/>
+                <element inactive_on_update="false" label="option b" sequence="1" value="option b"/>
+                <element inactive_on_update="false" label="option c" sequence="2" value="option c"/>
+            </choice>
+        </element>
+        <element label="date" max_length="40" name="date" type="glide_date_time"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
